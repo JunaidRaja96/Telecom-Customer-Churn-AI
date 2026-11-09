@@ -26,7 +26,7 @@ A visual representation of the model's performance on unseen test data.
 * **Deployment:** Model serialized using `joblib` for real-time inference.
 
 ## 📂 Repository Structure
-* `Customer_Retention_AI.ipynb`: Full data analysis and modeling code.
+* `Customer_Retention_AI_Predicting_Subscriber_Churn.ipynb`: Full data analysis and modeling code.
 * `churn_model.pkl`: The trained "Brain" of the AI.
 * `model_columns.pkl`: The feature map for the model.
 * `WA_Fn-UseC_-Telco-Customer-Churn.csv`: The dataset used.
